@@ -5,6 +5,7 @@
 ## 교재
 
   * 핸즈온 머신러닝(사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무), 저자 Aurélien Géron, 옮긴이 박해선
+  * [교재 errata](https://tensorflow.blog/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
   
 ## 커리큘럼
 
