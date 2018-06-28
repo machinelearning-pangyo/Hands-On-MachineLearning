@@ -16,7 +16,7 @@
 | 2018.05.29(화) |2. 머신러닝 프로젝트 처음부터 끝까지      | 박성재 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/02_end_to_end/housing.ipynb), [[nbviewer]](http://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/02_end_to_end/housing.ipynb) |
 | 2018.06.05(화) |3. 분류      | 이규영 |  |
 | 2018.06.12(화) |4. 모델 훈련      | 박종민 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/04_training_linear_models.ipynb), [[nbviewer]](http://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/04_training_linear_models.ipynb) |
-| 2018.06.28(목) |5. SVM      | 손주형 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/svm/3_SVM.ipynb), [[nbviewer]](http://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/svm/3_SVM.ipynb) |
+| 2018.06.28(목) |5. SVM      | 손주형 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/05_svm/3_SVM.ipynb), [[nbviewer]](http://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/05_svm/3_SVM.ipynb) |
 | 2018.06.19(화) |6. 결정트리      | 이규영 |  |
 | 2018.06.19(화) |7. 앙상블 & 랜덤 포레스트      | 이규영 |  |
 | 2018.07.03(화) |8. 차원축소      | 송치성 |  |
