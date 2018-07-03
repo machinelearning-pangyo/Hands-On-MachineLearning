@@ -19,7 +19,7 @@
 | 2018.06.28(목) |5. SVM      | 손주형 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/05_SVM/05_SVM.ipynb), [[nbviewer]](http://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/05_SVM/05_SVM.ipynb) |
 | 2018.06.19(화) |6. 결정트리      | 이규영 |  |
 | 2018.06.19(화) |7. 앙상블 & 랜덤 포레스트      | 이규영 |  |
-| 2018.07.03(화) |8. 차원축소      | 송치성 |  |
+| 2018.07.03(화) |8. 차원축소      | 송치성 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/08_dimensionality_reduction.ipynb), [[nbviewer]](https://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/08_dimensionality_reduction.ipynb) |
 | 2018.07.10(화) |9. 텐서플로 시작하기      | 조희주 |  |
 | 2018.07.17(화) |10. 인공 신경망      | 배상익 |  |
 | 2018.07.24(화) |11. DNN 훈련      | 송영숙 |  |
