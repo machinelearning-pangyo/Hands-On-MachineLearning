@@ -21,7 +21,7 @@
 | 2018.06.19(화) |7. 앙상블 & 랜덤 포레스트      | 이규영 |  |
 | 2018.07.03(화) |8. 차원축소      | 송치성 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/08_dimensionality_reduction.ipynb), [[nbviewer]](https://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/08_dimensionality_reduction.ipynb) |
 | 2018.07.10(화) |9. 텐서플로 시작하기      | 조희주 |  |
-| 2018.07.17(화) |10. 인공 신경망      | 전용진 | [[pdf]](https://github.com/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/10_Introduction_to_neural_network.pdf) |
+| 2018.07.17(화) |10. 인공 신경망      | 전용진 | [[pdf]](https://github.com/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/10_Introduction_to_neural_network.pdf), [[link]] https://drive.google.com/open?id=10AHatN8ip5235wRvpww3mWHDNRMsrR8t|
 | 2018.07.24(화) |11. DNN 훈련      | 송영숙 |  |
 | 2018.07.31(화) |12. 다중 머신을 위한 분산 텐서플로      | 김대영 |  |
 | 2018.08.07(화) |13. CNN      | 신형준 |  |
