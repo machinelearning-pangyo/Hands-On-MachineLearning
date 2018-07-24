@@ -22,7 +22,7 @@
 | 2018.07.03(화) |8. 차원축소      | 송치성 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/08_dimensionality_reduction.ipynb), [[nbviewer]](https://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/08_dimensionality_reduction.ipynb) |
 | 2018.07.10(화) |9. 텐서플로 시작하기      | 조희주 |  |
 | 2018.07.17(화) |10. 인공 신경망      | 전용진 | [[pdf]](https://github.com/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/10_Introduction_to_neural_network.pdf), [[link]](https://drive.google.com/open?id=1Z4vQ48zAkZhNJDTCEtkTe6YsYbr54YCI)|
-| 2018.07.24(화) |11. DNN 훈련      | 송영숙 | [colab](https://colab.research.google.com/drive/1OhdZAQMMP2XE3J1gpH0WjSGe82-W4iG_) |[nbviewer]](https://github.com/machinelearning-pangyo/Hands-On-MachineLearning.git)
+| 2018.07.24(화) |11. DNN 훈련      | 송영숙 | [colab](https://colab.research.google.com/drive/1OhdZAQMMP2XE3J1gpH0WjSGe82-W4iG_) |[nbviewer](https://github.com/machinelearning-pangyo/Hands-On-MachineLearning.git)
 | 2018.07.31(화) |12. 다중 머신을 위한 분산 텐서플로      | 김대영 |  |
 | 2018.08.07(화) |13. CNN      | 신형준 |  |
 | 2018.08.10(화) |14. RNN      | 김소윤 |  |
