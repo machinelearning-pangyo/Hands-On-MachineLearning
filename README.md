@@ -25,6 +25,6 @@
 | 2018.07.24(화) |11. DNN 훈련      | 송영숙 | [[colab]](https://colab.research.google.com/drive/1OhdZAQMMP2XE3J1gpH0WjSGe82-W4iG_), [[nbviewer]](http://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/11_DNN/11_deep_learning.ipynb)
 | 2018.07.31(화) |12. 다중 머신을 위한 분산 텐서플로      | 김대영 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/12_distributed/12_distributed_tensorflow.ipynb), [[nbviewer]](https://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/12_distributed/12_distributed_tensorflow.ipynb) |
 | 2018.08.21(화) |13. CNN      | 신형준, 김준호 | [[colab]](https://colab.research.google.com/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/13_CNN.ipynb), [[nbviewer]](https://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/13_CNN.ipynb), [[pdf]](https://github.com/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/13_cnn_architecture.pdf), [[ResNet_tf]](https://github.com/taki0112/ResNet-Tensorflow) |
-| 2018.08.21(화) |14. RNN      | 김소윤 |  |
+| 2018.08.21(화) |14. RNN      | 김소윤 | [[colab]](https://github.com/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/14_RNN/14_recurrent_neural_networks.ipynb), [[nbviewer]](https://nbviewer.jupyter.org/github/machinelearning-pangyo/Hands-On-MachineLearning/blob/master/14_RNN/14_recurrent_neural_networks.ipynb) |
 | 2018.08.28(화) |15. Autoencoder      | 백현기 |  |
 | 2018.09.04(화) |16. 강화학습      |  |  |
